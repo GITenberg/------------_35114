@@ -1,0 +1,30 @@
+_repo: '------------_35114'
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Papantoniou, Zacharias L.
+    aliases:
+    - Παπαντωνίου, Ζαχαρίας
+    - Papantoniou, Z. L. (Zacharias L.)
+    birthdate: 1877
+    deathdate: 1940
+    gutenberg_agent_id: '37469'
+    url: http://www.gutenberg.org/2009/agents/37469
+    wikipedia: http://el.wikipedia.org/wiki/%CE%96%CE%B1%CF%87%CE%B1%CF%81%CE%AF%CE%B1%CF%82_%CE%A0%CE%B1%CF%80%CE%B1%CE%BD%CF%84%CF%89%CE%BD%CE%AF%CE%BF%CF%85
+description: ''
+gutenberg_issued: '2011-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35114'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Greek literature, Modern'
+title: Πεζοί Ρυθμοί
+url: http://www.gutenberg.org/ebooks/35114
